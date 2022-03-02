@@ -16,7 +16,7 @@ I am currently developing myself in the field of software.
 
 ### Languages and Tools:
 
-<img align="left" alt="sass" width="26px" src="https://github.com/okutucu/okutucu/blob/main/288_Sass-512.webp" style="padding-right:10px;">
+<img align="left" alt="sass" width="56px" src="https://github.com/okutucu/okutucu/blob/main/288_Sass-512.webp" style="padding-right:10px;">
 
 
 
