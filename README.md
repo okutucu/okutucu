@@ -17,6 +17,13 @@ I am currently developing myself in the field of software.
 ### Languages and Tools:
 
 <img align="left" alt="sass" width="56px" src="https://github.com/okutucu/okutucu/blob/main/288_Sass-512.webp" style="padding-right:10px;">
+<img align="left" alt="js" width="56px" src="https://github.com/okutucu/okutucu/blob/main/61b813455c729b5a4574888b_js%20logo.png" style="padding-right:10px;">
+<img align="left" alt="html5" width="56px" src="https://github.com/okutucu/okutucu/blob/main/HTML5_Badge_512.png" style="padding-right:10px;">
+<img align="left" alt="dotNetCore" width="56px" src="https://github.com/okutucu/okutucu/blob/main/NET_Core_Logo.svg.png" style="padding-right:10px;">
+<img align="left" alt="csharp" width="56px" src="https://github.com/okutucu/okutucu/blob/main/csharp_original_logo_icon_146578.png" style="padding-right:10px;">
+<img align="left" alt="sql" width="56px" src="https://github.com/okutucu/okutucu/blob/main/microsoft-sql-server-logo-96AF49E2B3-seeklogo.com.png" style="padding-right:10px;">
+
+
 
 
 
