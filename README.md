@@ -4,8 +4,8 @@ Hello. I'm Oğuzhan. I am a graduate of Akdeniz University Space Sciences and Te
 I am currently developing myself in the field of software.
 
 
-- 🔭 I’m currently working on Frontend
-- 🌱 I’m currently learning .net and .net Core
+- 🔭 I’m currently working on Frontend and .net Core
+- 🌱 I’m currently learning Microservice
 - 💬 You can ask me anything
 - 📫 You can reach me from the links below
 
